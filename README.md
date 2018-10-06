@@ -1,5 +1,5 @@
 # Karsten Johansson's Bookmarks
-Putting all my bookmarks here since I tend to use browsers from different systems all the time, and over the years it has become obnoxiously messy. This will take a while, so if you're seeing this message, the job isn't done yet...
+Putting all my bookmarks here since I tend to use browsers from different systems all the time, and over the years it has become obnoxiously messy. This will take a while, so if you're seeing this message, the job isn't done yet... When it's done, I'll break them out into different topical files. 
 
 
 ## Computing
