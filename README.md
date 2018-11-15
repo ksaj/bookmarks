@@ -1,6 +1,7 @@
 # Karsten Johansson's Bookmarks
 Putting all my bookmarks here since I tend to use browsers from different systems all the time, and over the years it has become obnoxiously messy. This will take a while, so if you're seeing this message, the job isn't done yet... When it's done, I'll break them out into different topical files. 
 
+**NOTE:** Each section will be put in separate files once I get them all here, and then organized. The current "titles" will be directly related to what those file names will eventually be.
 
 ## Computing
 
